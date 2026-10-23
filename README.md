@@ -119,78 +119,78 @@ Open-source frameworks allow engineering teams to retain 100% control over telem
 
 | 🏆 Rank | 📦 Repository & Stargazers | 📜 License | 🎯 Primary Domain | 💡 Core Differentiator |
 | :---: | :--- | :---: | :--- | :--- |
-| **#1** | **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers) | Apache-2.0 | LLM Tracing & Drift | OpenTelemetry-native tracing, embedding drift visualization, and local evaluation. |
-| **#2** | **[Great Expectations](https://github.com/great-expectations/great_expectations)** [![GitHub stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers) | Apache-2.0 | Data Quality & Testing | Declarative assertions for data pipelines, automated profiling, and drift gatekeeping. |
-| **#3** | **[Cleanlab](https://github.com/cleanlab/cleanlab)** [![GitHub stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social&color=white)](https://github.com/cleanlab/cleanlab/stargazers) | AGPL-3.0 | Data-Centric AI & OOD | Out-of-distribution (OOD) detection, label noise auditing, and data health scoring. |
-| **#4** | **[Evidently](https://github.com/evidentlyai/evidently)** [![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers) | Apache-2.0 | ML & LLM Evaluation | 100+ built-in metrics, interactive dashboard UI, and CI/CD test suites. |
-| **#5** | **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social&color=white)](https://github.com/Giskard-AI/giskard/stargazers) | Apache-2.0 | ML/LLM Quality Testing | Automated vulnerability scanning, performance degradation, and bias tests. |
-| **#6** | **[Deepchecks](https://github.com/deepchecks/deepchecks)** [![GitHub stars](https://img.shields.io/github/stars/deepchecks/deepchecks?style=social&color=white)](https://github.com/deepchecks/deepchecks/stargazers) | Apache-2.0 | Continuous Validation | Comprehensive suites for data integrity, distribution shifts, and model decay. |
-| **#7** | **[whylogs](https://github.com/whylabs/whylogs)** [![GitHub stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social&color=white)](https://github.com/whylabs/whylogs/stargazers) | Apache-2.0 | Mergeable Profiling | Sub-millisecond statistical profiling, mergeable sketch summaries, and data constraints. |
-| **#8** | **[alibi-detect](https://github.com/SeldonIO/alibi-detect)** [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi-detect?style=social&color=white)](https://github.com/SeldonIO/alibi-detect/stargazers) | BSL 1.1 | Outlier & Drift Primitives | Multi-modal drift algorithms (tabular, text, image, timeseries) on PyTorch & TensorFlow. |
-| **#9** | **[UpTrain](https://github.com/uptrain-ai/uptrain)** [![GitHub stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social&color=white)](https://github.com/uptrain-ai/uptrain/stargazers) | Apache-2.0 | LLM Evaluation & Tracing | 20+ automated evaluation metrics, embedding drift detection, and root-cause analysis. |
-| **#10** | **[NannyML](https://github.com/NannyML/nannyml)** [![GitHub stars](https://img.shields.io/github/stars/NannyML/nannyml?style=social&color=white)](https://github.com/NannyML/nannyml/stargazers) | Apache-2.0 | Silent Failure Estimation | CBPE & DLE estimation without ground truth, multivariate PCA drift, and alert ranking. |
-| **#11** | **[Argus SDK](https://github.com/m-c-frank/argus-sdk)** [![GitHub stars](https://img.shields.io/badge/stars-OSS-white?style=social)](https://github.com/m-c-frank/argus-sdk/stargazers) | MIT | Derived-Signal LLM Drift | Private drift detection using token/latency telemetry without prompt exposure. |
-| **#12** | **[MCP ML Monitor](https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection)** [![GitHub stars](https://img.shields.io/badge/stars-OSS-white?style=social)](https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection/stargazers) | MIT | Agent-Driven Auto-Remediation | MCP agent orchestrating KS-Test, PSI, and automated Kubernetes rollback playbooks. |
+| **#1** | **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers) | Apache-2.0 | LLM Tracing & Drift | OpenTelemetry-native tracing, embedding drift visualization, and local evaluation. |
+| **#2** | **[Great Expectations](https://github.com/great-expectations/great_expectations)** [![GitHub_Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers) | Apache-2.0 | Data Quality & Testing | Declarative assertions for data pipelines, automated profiling, and drift gatekeeping. |
+| **#3** | **[Cleanlab](https://github.com/cleanlab/cleanlab)** [![GitHub_Stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social&color=white)](https://github.com/cleanlab/cleanlab/stargazers) | AGPL-3.0 | Data-Centric AI & OOD | Out-of-distribution (OOD) detection, label noise auditing, and data health scoring. |
+| **#4** | **[Evidently](https://github.com/evidentlyai/evidently)** [![GitHub_Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers) | Apache-2.0 | ML & LLM Evaluation | 100+ built-in metrics, interactive dashboard UI, and CI/CD test suites. |
+| **#5** | **[Giskard](https://github.com/Giskard-AI/giskard)** [![GitHub_Stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social&color=white)](https://github.com/Giskard-AI/giskard/stargazers) | Apache-2.0 | ML/LLM Quality Testing | Automated vulnerability scanning, performance degradation, and bias tests. |
+| **#6** | **[Deepchecks](https://github.com/deepchecks/deepchecks)** [![GitHub_Stars](https://img.shields.io/github/stars/deepchecks/deepchecks?style=social&color=white)](https://github.com/deepchecks/deepchecks/stargazers) | Apache-2.0 | Continuous Validation | Comprehensive suites for data integrity, distribution shifts, and model decay. |
+| **#7** | **[whylogs](https://github.com/whylabs/whylogs)** [![GitHub_Stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social&color=white)](https://github.com/whylabs/whylogs/stargazers) | Apache-2.0 | Mergeable Profiling | Sub-millisecond statistical profiling, mergeable sketch summaries, and data constraints. |
+| **#8** | **[alibi-detect](https://github.com/SeldonIO/alibi-detect)** [![GitHub_Stars](https://img.shields.io/github/stars/SeldonIO/alibi-detect?style=social&color=white)](https://github.com/SeldonIO/alibi-detect/stargazers) | BSL 1.1 | Outlier & Drift Primitives | Multi-modal drift algorithms (tabular, text, image, timeseries) on PyTorch & TensorFlow. |
+| **#9** | **[UpTrain](https://github.com/uptrain-ai/uptrain)** [![GitHub_Stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social&color=white)](https://github.com/uptrain-ai/uptrain/stargazers) | Apache-2.0 | LLM Evaluation & Tracing | 20+ automated evaluation metrics, embedding drift detection, and root-cause analysis. |
+| **#10** | **[NannyML](https://github.com/NannyML/nannyml)** [![GitHub_Stars](https://img.shields.io/github/stars/NannyML/nannyml?style=social&color=white)](https://github.com/NannyML/nannyml/stargazers) | Apache-2.0 | Silent Failure Estimation | CBPE & DLE estimation without ground truth, multivariate PCA drift, and alert ranking. |
+| **#11** | **[Argus SDK](https://github.com/m-c-frank/argus-sdk)** [![GitHub_Stars](https://img.shields.io/badge/stars-OSS-white?style=social)](https://github.com/m-c-frank/argus-sdk/stargazers) | MIT | Derived-Signal LLM Drift | Private drift detection using token/latency telemetry without prompt exposure. |
+| **#12** | **[MCP ML Monitor](https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection)** [![GitHub_Stars](https://img.shields.io/badge/stars-OSS-white?style=social)](https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection/stargazers) | MIT | Agent-Driven Auto-Remediation | MCP agent orchestrating KS-Test, PSI, and automated Kubernetes rollback playbooks. |
 
 ---
 
 ### Open-Source Deep Dive
 
-#### 1. [Arize Phoenix](https://github.com/Arize-ai/phoenix) [![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)
+#### 1. [Arize Phoenix](https://github.com/Arize-ai/phoenix) [![GitHub_Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white)](https://github.com/Arize-ai/phoenix/stargazers)
 - **License:** Apache 2.0
 - **Architectural Approach:** Phoenix is an OpenTelemetry-based AI observability framework built specifically for evaluating LLMs, agents, and generative AI systems.
 - **Drift & Telemetry Capabilities:** Visualizes high-dimensional embedding drift through UMAP clustering, tracks prompt and response token degradation, and correlates semantic drift with downstream task performance.
 - **Why It Matters:** Run completely locally with zero telemetry egress, or scale in containerized infrastructure with pre-built evaluation benchmarks (hallucination, QA correctness, toxicity).
 
-#### 2. [Great Expectations](https://github.com/great-expectations/great_expectations) [![GitHub stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)
+#### 2. [Great Expectations](https://github.com/great-expectations/great_expectations) [![GitHub_Stars](https://img.shields.io/github/stars/great-expectations/great_expectations?style=social&color=white)](https://github.com/great-expectations/great_expectations/stargazers)
 - **License:** Apache 2.0
 - **Architectural Approach:** The industry standard for declarative data assertion and pipeline validation. Translates domain assumptions into self-documenting executable test suites.
 - **Drift & Telemetry Capabilities:** Detects schema mutations, missing value spikes, quantile deviations, and statistical distribution shifts across SQL databases, Pandas, Polars, and Apache Spark.
 - **Why It Matters:** Acts as the first line of defense before inference pipelines run, preventing corrupted features from silently poisoning model outputs.
 
-#### 3. [Cleanlab](https://github.com/cleanlab/cleanlab) [![GitHub stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social&color=white)](https://github.com/cleanlab/cleanlab/stargazers)
+#### 3. [Cleanlab](https://github.com/cleanlab/cleanlab) [![GitHub_Stars](https://img.shields.io/github/stars/cleanlab/cleanlab?style=social&color=white)](https://github.com/cleanlab/cleanlab/stargazers)
 - **License:** AGPL 3.0
 - **Architectural Approach:** Standard-bearer for Data-Centric AI (DCAI), focusing on dataset health, label errors, and out-of-distribution (OOD) inference samples.
 - **Drift & Telemetry Capabilities:** Calculates confident learning scores to identify samples where model predictions diverge fundamentally from training distribution manifolds.
 - **Why It Matters:** Enables ML engineers to separate algorithmic degradation from contaminated or mislabeled input data during continuous monitoring loops.
 
-#### 4. [Evidently](https://github.com/evidentlyai/evidently) [![GitHub stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)
+#### 4. [Evidently](https://github.com/evidentlyai/evidently) [![GitHub_Stars](https://img.shields.io/github/stars/evidentlyai/evidently?style=social&color=white)](https://github.com/evidentlyai/evidently/stargazers)
 - **License:** Apache 2.0
 - **Architectural Approach:** The most complete open-source library for evaluating, testing, and monitoring classical ML models and LLMs from development through production.
 - **Drift & Telemetry Capabilities:** Packed with 100+ built-in metrics spanning univariate feature drift (Wasserstein, KS-Test, PSI, Jensen-Shannon), prediction drift, target drift, classification quality, and LLM judge evaluations.
 - **Production Artifacts:** Generates interactive standalone HTML reports, exports structured JSON/dictionaries for CI/CD assertions, and powers a self-hosted live monitoring dashboard service.
 
-#### 5. [Giskard](https://github.com/Giskard-AI/giskard) [![GitHub stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social&color=white)](https://github.com/Giskard-AI/giskard/stargazers)
+#### 5. [Giskard](https://github.com/Giskard-AI/giskard) [![GitHub_Stars](https://img.shields.io/github/stars/Giskard-AI/giskard?style=social&color=white)](https://github.com/Giskard-AI/giskard/stargazers)
 - **License:** Apache 2.0
 - **Architectural Approach:** Automated testing and QA framework specifically engineered to detect regressions, domain shifts, and ethical vulnerabilities in machine learning models and generative agents.
 - **Drift & Telemetry Capabilities:** Generates adversarial test cases automatically to uncover performance drops on unseen demographic slices and evaluates robustness against semantic perturbations.
 - **Why It Matters:** Bridges the gap between static offline validation and production monitoring by enforcing test suites in CI/CD before models reach serving clusters.
 
-#### 6. [Deepchecks](https://github.com/deepchecks/deepchecks) [![GitHub stars](https://img.shields.io/github/stars/deepchecks/deepchecks?style=social&color=white)](https://github.com/deepchecks/deepchecks/stargazers)
+#### 6. [Deepchecks](https://github.com/deepchecks/deepchecks) [![GitHub_Stars](https://img.shields.io/github/stars/deepchecks/deepchecks?style=social&color=white)](https://github.com/deepchecks/deepchecks/stargazers)
 - **License:** Apache 2.0
 - **Architectural Approach:** Holistic validation library providing plug-and-play check suites across data integrity, train-test leakage, distribution drift, and model performance decay.
 - **Drift & Telemetry Capabilities:** Comprehensive checks for categorical outlier detection, feature-label correlation drift, and unseen categories appearing in live production data.
 - **Why It Matters:** Provides out-of-the-box suites that can be embedded into retraining loops, pipeline stages, and production inference monitors with a single Python function call.
 
-#### 7. [whylogs](https://github.com/whylabs/whylogs) [![GitHub stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social&color=white)](https://github.com/whylabs/whylogs/stargazers)
+#### 7. [whylogs](https://github.com/whylabs/whylogs) [![GitHub_Stars](https://img.shields.io/github/stars/whylabs/whylogs?style=social&color=white)](https://github.com/whylabs/whylogs/stargazers)
 - **License:** Apache 2.0
 - **Architectural Approach:** The gold standard in lightweight statistical profiling. Constructs approximate, mergeable mathematical sketches of streaming or batch datasets.
 - **Drift & Telemetry Capabilities:** Tracks distributions, cardinalities, missingness, and data types with sub-millisecond execution times and zero storage of raw customer inputs.
 - **Distributed Mergeability:** Profiles generated across multiple distributed worker nodes (Spark, Ray, Kubernetes pods) can be merged algebraically without loss of statistical precision.
 
-#### 8. [alibi-detect](https://github.com/SeldonIO/alibi-detect) [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi-detect?style=social&color=white)](https://github.com/SeldonIO/alibi-detect/stargazers)
+#### 8. [alibi-detect](https://github.com/SeldonIO/alibi-detect) [![GitHub_Stars](https://img.shields.io/github/stars/SeldonIO/alibi-detect?style=social&color=white)](https://github.com/SeldonIO/alibi-detect/stargazers)
 - **License:** Business Source License 1.1 (BSL 1.1)
 - **Architectural Approach:** Rigorous statistical library focused on algorithms for outlier detection, adversarial perturbation detection, and dataset drift.
 - **Drift & Telemetry Capabilities:** Implements Maximum Mean Discrepancy (MMD), Kolmogorov-Smirnov (KS), Learned Kernel MMD, and Chi-Square tests across tabular data, natural language, computer vision images, and time series.
 - **Backends:** Deep integration with PyTorch and TensorFlow for autoencoder-based reconstruction error and latent-space drift detectors.
 
-#### 9. [UpTrain](https://github.com/uptrain-ai/uptrain) [![GitHub stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social&color=white)](https://github.com/uptrain-ai/uptrain/stargazers)
+#### 9. [UpTrain](https://github.com/uptrain-ai/uptrain) [![GitHub_Stars](https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social&color=white)](https://github.com/uptrain-ai/uptrain/stargazers)
 - **License:** Apache 2.0
 - **Architectural Approach:** Observability and continuous evaluation toolkit focused on debugging LLMs, RAG pipelines, and ML systems in production.
 - **Drift & Telemetry Capabilities:** Provides 20+ automated evaluation metrics including context relevance, factual accuracy, language fluency, and embedding distance shift over time.
 - **Root-Cause Analysis:** Flags edge-case failures and groups anomalous inference requests into semantic clusters for targeted retraining.
 
-#### 10. [NannyML](https://github.com/NannyML/nannyml) [![GitHub stars](https://img.shields.io/github/stars/NannyML/nannyml?style=social&color=white)](https://github.com/NannyML/nannyml/stargazers)
+#### 10. [NannyML](https://github.com/NannyML/nannyml) [![GitHub_Stars](https://img.shields.io/github/stars/NannyML/nannyml?style=social&color=white)](https://github.com/NannyML/nannyml/stargazers)
 - **License:** Apache 2.0
 - **Architectural Approach:** The industry pioneer in **silent failure detection** and **ground-truth-independent performance estimation**.
 - **Ground-Truth Estimation:**
@@ -198,13 +198,13 @@ Open-source frameworks allow engineering teams to retain 100% control over telem
   - **DLE (Direct Loss Estimation):** Uses machine learning to directly estimate regression performance (MAE, MSE, RMSE) in delayed-outcome production pipelines.
 - **Multivariate Drift:** Employs PCA reconstruction error to monitor multi-feature interactions simultaneously, ensuring alerts are only triggered when drift directly threatens predictive accuracy (eliminating alert fatigue).
 
-#### 11. [Argus SDK](https://github.com/m-c-frank/argus-sdk) [![GitHub stars](https://img.shields.io/badge/stars-OSS-white?style=social)](https://github.com/m-c-frank/argus-sdk/stargazers)
+#### 11. [Argus SDK](https://github.com/m-c-frank/argus-sdk) [![GitHub_Stars](https://img.shields.io/badge/stars-OSS-white?style=social)](https://github.com/m-c-frank/argus-sdk/stargazers)
 - **License:** MIT
 - **Architectural Approach:** Ultra-lightweight LLM drift detection engine that functions entirely on **derived telemetry signals** (completion latency, output token volume, finish reasons) without ever inspecting prompt or completion payload strings.
 - **Statistical Mechanics:** Utilizes Welford's online algorithm to establish baseline statistics after 200 events; evaluates dynamic windows via the Mann-Whitney U test with Bonferroni correction every 60 seconds.
 - **Hysteresis State Machine:** Suppresses flapping alerts with a hysteresis threshold (trips alert at drift score 0.7; requires three consecutive clean windows below 0.4 to clear).
 
-#### 12. [MCP ML Monitor](https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection) [![GitHub stars](https://img.shields.io/badge/stars-OSS-white?style=social)](https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection/stargazers)
+#### 12. [MCP ML Monitor](https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection) [![GitHub_Stars](https://img.shields.io/badge/stars-OSS-white?style=social)](https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection/stargazers)
 - **License:** MIT
 - **Architectural Approach:** Model Context Protocol (MCP) native agent integrating Kolmogorov-Smirnov (KS-Test), Population Stability Index (PSI), and Wasserstein statistical monitors into agentic reasoning loops.
 - **Automated Remediation:** Integrates directly with LangFlow pipelines to trigger automated Kubernetes deployment rollbacks, dispatch Slack telemetry alerts, and file diagnostic GitHub issues upon drift detection.
@@ -265,7 +265,7 @@ We actively welcome contributions from the community to keep this landscape fres
 3. **Add or update entries in `README.md`**:
    - Adhere to the established table and descriptive section formats.
    - For SaaS tools: provide verified starting tier prices, specific free tier limits, and verifiable company valuation / revenue metrics.
-   - For Open-Source tools: include official repository link, license, and star badge (`style=social&color=white`).
+   - For Open-Source tools: include official repository link, license, and Stars_Badge (`style=social&color=white`).
 4. **Ensure links are functional and accurate**.
 5. **Submit a Pull Request (PR)** with a clear explanation of why the addition is valuable to production ML teams.
 
@@ -297,3 +297,12 @@ If you found this curated guide useful for your production machine learning arch
 - ☕ **Support the maintainer**: If you would like to buy a coffee or sponsor ongoing maintenance of this and other curated ecosystems, visit the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**.
 
 Thank you to all open-source contributors and MLOps engineers working to make production AI reliable, explainable, and resilient! 🚀
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-ML-Model-Monitoring-Drift-Detection_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-ML-Model-Monitoring-Drift-Detection_growth.svg">
+  </picture>
+</a>
